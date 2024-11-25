@@ -1,0 +1,11 @@
+
+# sst
+.sst
+.env
+.idea
+.sst
+.data
+build
+tmp
+otel-config.yaml
+sst.config.ts
